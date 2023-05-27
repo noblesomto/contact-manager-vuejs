@@ -1,0 +1,76 @@
+{
+  "contacts": [
+    {
+      "id": "HOM7239",
+      "name": "Kim John",
+      "company": "Facebook",
+      "email": "kim@gmail.com",
+      "title": "Engr",
+      "mobile": "08048375300",
+      "photo": "https://randomuser.me/api/portraits/men/62.jpg",
+      "groupId": "1"
+    },
+    {
+      "id": "KK3002H",
+      "name": "Sammy Young",
+      "company": "Twitter",
+      "email": "sammy@gmail.com",
+      "title": "Mr",
+      "mobile": "090437324987",
+      "photo": "https://randomuser.me/api/portraits/men/53.jpg",
+      "groupId": "2"
+    },
+    {
+      "id": "KS8473",
+      "name": "King Son",
+      "company": "Instagram",
+      "email": "king@gmail.com",
+      "title": "youtuber",
+      "mobile": "04043937324",
+      "photo": "https://randomuser.me/api/portraits/men/52.jpg",
+      "groupId": "3"
+    },
+    {
+      "id": "OS793",
+      "name": "Noble Somto",
+      "company": "Noble Contracts",
+      "email": "noble@gmail.com",
+      "title": "Engr",
+      "mobile": "07033937324",
+      "photo": "https://randomuser.me/api/portraits/men/34.jpg",
+      "groupId": "3"
+    },
+    {
+      "name": "Njay baby",
+      "company": "Njay Cousine",
+      "email": "njay@gmail.com",
+      "title": "Madam",
+      "mobile": "090393839300",
+      "photo": "https://randomuser.me/api/portraits/women/2.jpg",
+      "groupId": "2",
+      "id": "usTUL2h"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Family"
+    },
+    {
+      "id": "3",
+      "name": "Friends"
+    },
+    {
+      "id": "4",
+      "name": "Office"
+    },
+    {
+      "id": "5",
+      "name": "Social"
+    }
+  ]
+}
